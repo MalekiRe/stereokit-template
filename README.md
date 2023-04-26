@@ -1,0 +1,1 @@
+This is a Template project for <https://github.com/MalekiRe/stereokit-rs> that enables a quick setup for a quest-compatiable stereokit-project!
